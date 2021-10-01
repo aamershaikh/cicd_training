@@ -10,6 +10,6 @@ public class Api {
 
     @GetMapping("/message")
     public String getMessage(){
-        return "Hello World - From Deloitte";
+        return "Hello World - From Deloitte - New Commit";
     }
 }
